@@ -14,8 +14,8 @@ status-website:
   theme: light
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /upptime
+  cname: status.huaweiblog.de
+  # baseUrl: /upptime
   logoUrl: https://userfiles.uptimerobot.com/img/312074-1603784195.png
   name: HUAWEI.Blog Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
