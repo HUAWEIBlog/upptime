@@ -26,6 +26,8 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Homepage
       href: https://www.huaweiblog.de/
+assignees:
+  - lewandos
 i18n:
   footer: Copyright ©2022 HUAWEI.Blog - All rights reserved.
 
