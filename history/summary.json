@@ -6,17 +6,16 @@
     "slug": "huawei-blog",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 3407,
-    "timeDay": 3367,
-    "timeWeek": 3200,
-    "timeMonth": 3221,
+    "timeDay": 3205,
+    "timeWeek": 3233,
+    "timeMonth": 3215,
     "timeYear": 3407,
     "dailyMinutesDown": {
-      "2023-01-25": 11,
       "2022-07-28": 66
     }
   },
@@ -27,17 +26,15 @@
     "slug": "huawei-blog-api-v2",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1443,
-    "timeDay": 1274,
-    "timeWeek": 1214,
-    "timeMonth": 1319,
-    "timeYear": 1443,
-    "dailyMinutesDown": {
-      "2023-01-25": 10
-    }
+    "time": 1442,
+    "timeDay": 1318,
+    "timeWeek": 1228,
+    "timeMonth": 1310,
+    "timeYear": 1442,
+    "dailyMinutesDown": {}
   }
 ]
