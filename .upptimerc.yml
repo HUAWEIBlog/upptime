@@ -6,7 +6,7 @@ sites:
   - name: HUAWEI.Blog
     url: https://huaweiblog.de/
   - name: HUAWEI.Blog API v2
-    url: https://www.huaweiblog.de/
+    url: https://api.huaweiblog.de/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -14,12 +14,14 @@ status-website:
   cname: status.huaweiblog.de
   # baseUrl: /upptime
   logoUrl: https://userfiles.uptimerobot.com/img/312074-1603784195.png
-  name: HUAWEI.Blog Upptime
+  name: HUAWEI.Blog Uptime Robot
   introTitle: "**HUAWEI.Blog** Cloud Status."
   introMessage: This is the status page for all HUAWEI.Blog Cloud services
   navbar:
     - title: Status
       href: /
+    - title: Android App
+      href: https://play.google.com/store/apps/details?id=app.huaweiblog
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Homepage
