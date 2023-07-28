@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3261,
-    "timeDay": 3361,
-    "timeWeek": 2977,
-    "timeMonth": 2837,
-    "timeYear": 3214,
-    "dailyMinutesDown": {
-      "2022-07-28": 66
-    }
+    "time": 3260,
+    "timeDay": 2928,
+    "timeWeek": 2905,
+    "timeMonth": 2811,
+    "timeYear": 3211,
+    "dailyMinutesDown": {}
   },
   {
     "name": "HUAWEI.Blog API v2",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2093,
-    "timeDay": 3315,
-    "timeWeek": 2970,
-    "timeMonth": 3054,
-    "timeYear": 2208,
+    "time": 2095,
+    "timeDay": 3004,
+    "timeWeek": 2889,
+    "timeMonth": 3041,
+    "timeYear": 2212,
     "dailyMinutesDown": {}
   }
 ]
