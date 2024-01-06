@@ -6,15 +6,15 @@
     "slug": "huawei-blog",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.76%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 3007,
-    "timeDay": 2452,
-    "timeWeek": 3260,
-    "timeMonth": 2878,
-    "timeYear": 2909,
+    "timeDay": 3416,
+    "timeWeek": 3396,
+    "timeMonth": 2925,
+    "timeYear": 2911,
     "dailyMinutesDown": {
       "2024-01-04": 18
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2496,
-    "timeDay": 2600,
-    "timeWeek": 2892,
-    "timeMonth": 2974,
-    "timeYear": 2858,
+    "timeDay": 2010,
+    "timeWeek": 2787,
+    "timeMonth": 2947,
+    "timeYear": 2861,
     "dailyMinutesDown": {}
   }
 ]
