@@ -4,9 +4,9 @@
     "url": "https://huaweiblog.de/",
     "icon": "https://icons.duckduckgo.com/ip3/huaweiblog.de.ico",
     "slug": "huawei-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2950,
     "timeYear": 2765,
     "dailyMinutesDown": {
+      "2024-09-24": 0,
       "2024-01-04": 18
     }
   },
@@ -24,17 +25,19 @@
     "url": "https://api.huaweiblog.de/",
     "icon": "https://icons.duckduckgo.com/ip3/api.huaweiblog.de.ico",
     "slug": "huawei-blog-api-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3141,
+    "time": 3142,
     "timeDay": 4026,
     "timeWeek": 3720,
     "timeMonth": 3883,
     "timeYear": 3180,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-24": 0
+    }
   }
 ]
