@@ -4,10 +4,10 @@
     "url": "https://huaweiblog.de/",
     "icon": "https://icons.duckduckgo.com/ip3/huaweiblog.de.ico",
     "slug": "huawei-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 3197,
@@ -16,6 +16,7 @@
     "timeMonth": 3657,
     "timeYear": 3268,
     "dailyMinutesDown": {
+      "2025-11-24": 1,
       "2025-09-10": 293,
       "2025-09-09": 731
     }
@@ -25,7 +26,7 @@
     "url": "https://api.huaweiblog.de/",
     "icon": "https://icons.duckduckgo.com/ip3/api.huaweiblog.de.ico",
     "slug": "huawei-blog-api-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
