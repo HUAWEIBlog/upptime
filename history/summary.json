@@ -6,9 +6,9 @@
     "slug": "huawei-blog",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.80%",
     "time": 3217,
     "timeDay": 3521,
@@ -16,7 +16,6 @@
     "timeMonth": 3842,
     "timeYear": 3288,
     "dailyMinutesDown": {
-      "2025-11-28": 13,
       "2025-11-24": 19,
       "2025-09-10": 293,
       "2025-09-09": 731
