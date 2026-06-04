@@ -4,16 +4,16 @@
     "url": "https://huaweiblog.de/",
     "icon": "https://icons.duckduckgo.com/ip3/huaweiblog.de.ico",
     "slug": "huawei-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "78.48%",
-    "uptimeWeek": "96.93%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "99.48%",
-    "time": 3298,
-    "timeDay": 2545,
-    "timeWeek": 3339,
-    "timeMonth": 2887,
+    "uptimeDay": "75.70%",
+    "uptimeWeek": "96.53%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "99.47%",
+    "time": 3299,
+    "timeDay": 2794,
+    "timeWeek": 3302,
+    "timeMonth": 2892,
     "timeYear": 3319,
     "dailyMinutesDown": {
       "2025-09-10": 293,
@@ -45,7 +45,7 @@
       "2026-04-11": 35,
       "2026-05-09": 221,
       "2026-06-03": 134,
-      "2026-06-04": 176
+      "2026-06-04": 216
     }
   },
   {
@@ -92,7 +92,7 @@
       "2026-04-09": 1,
       "2026-04-08": 18,
       "2026-04-11": 35,
-      "2026-06-04": 284,
+      "2026-06-04": 324,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
